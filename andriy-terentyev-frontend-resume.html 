@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" media="all" href="https://cdn.resume.io/assets/resume_template/amsterdam-188bd5bd8977bc50a2df468eaf78f243c92587a9d79cd850febbdc8d153445a3.css">
+    <meta charset="utf-8">
+    <meta content="noindex, nofollow" name="robots">
+</head>
+
+<body>
+    <div class="side-bar" style="height: 1450px;"></div>
+    <div class="preview-box">
+        <div class="container">
+            <div class="title" style="">
+                <div class="title__block" style="margin-top: 40px;">
+                    <div class="title__name" style="letter-spacing: 5px;">ANDRIY TERENTYEV</div>
+                    <div class="title__position" style="">Frontend Developer / Agile Project Manager</div>
+                </div>
+            </div>
+            <div class="container__main">
+                <div class="sidebar dont-hide-me">
+                    <div class="sidebar__section" style="">
+                        <div class="section__title" style="letter-spacing: 3px;">info</div>
+                        <div class="sidebar__subsection" style="">
+                            <div class="sidebar__subtitle" style="">Address</div>
+                            <div class="sidebar__subsection-text" style="">Avda. Amado Granell Mesado 65, Valencia,
+                                46013, Spain</div>
+                        </div>
+                        <div class="sidebar__subsection" style="">
+                            <div class="sidebar__subtitle" style="">Phone</div>
+                            <div class="sidebar__subsection-text" style="">+34 692 42 99 32</div>
+                        </div>
+                        <div class="sidebar__subsection" style="">
+                            <div class="sidebar__subtitle" style="">Email</div>
+                            <a href="mailto:andrei@terentyev.net"><div class="sidebar__subsection-text" style="">andrei@terentyev.net</div></a>
+                        </div>
+                        <div class="sidebar__subsection" style="">
+                                <div class="sidebar__subtitle" style="">Skype</div>
+                                <a href="skype:andrei.terentyev?chat"><div class="sidebar__subsection-text" style="">andrei.terentyev</div></a>
+                            </div>    
+                    </div>
+                    <div class="sidebar__section" style="">
+                        <div class="section__title" style="letter-spacing: 3px;">Skills</div>
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">HTML5/CSS</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">SASS/SCSS</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">Git</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <!-- <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">DNS Management</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div> -->
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">Gatsby.js</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">React.js</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">Angular.js</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <!-- <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">Webpack</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div> -->
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">Twitter Bootstrap</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill" style="">
+                                <div class="sidebar__skill-label" style="">Agile Project Management</div>
+                                <div class="sidebar__skill-progress" style="">
+                                    <div class="sidebar__circle" style=""></div>
+                                    <div class="sidebar__circle" style=""></div>
+                                    <div class="sidebar__circle" style=""></div>
+                                    <div class="sidebar__circle" style=""></div>
+                                    <div class="sidebar__circle is-empty" style=""></div>
+                                </div>
+                        </div>
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">JIRA Administration</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">Confluence</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill" style="">
+                            <div class="sidebar__skill-label" style="">Project Documentation</div>
+                            <div class="sidebar__skill-progress" style="">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sidebar__section">
+                        <div class="section__title" style="letter-spacing: 3px; display:none;">Hobbies</div>
+                        <div class="sidebar__text" style="display:none;">social dances, yoga</div>
+                    </div>
+                    <div class="sidebar__section">
+                        <div class="section__title" style="letter-spacing: 3px;">Languages</div>
+                        <div class="sidebar__skill">
+                            <div class="sidebar__skill-label" style="">English</div>
+                            <div class="sidebar__skill-progress">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill">
+                            <div class="sidebar__skill-label" style="">Russian</div>
+                            <div class="sidebar__skill-progress">
+                                <div class="sidebar__circle" style=";"></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill">
+                            <div class="sidebar__skill-label" style="">Ukrainian</div>
+                            <div class="sidebar__skill-progress">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill">
+                            <div class="sidebar__skill-label" style="">Spanish</div>
+                            <div class="sidebar__skill-progress">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                        <div class="sidebar__skill">
+                            <div class="sidebar__skill-label" style="">German</div>
+                            <div class="sidebar__skill-progress">
+                                <div class="sidebar__circle" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                                <div class="sidebar__circle is-empty" style=""></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="main" style="">
+                    <div class="main__section" style="">
+                        <div class="section__title" style="letter-spacing:3px;">Profile</div>
+                        <div class="main__text" style="">
+                            <div style="">HTML5/CSS and JavaScript. Foundations of React.js and Angular.js. Experienced
+                                in managing multinational remote teams, manage SCRUM teams, prepare project
+                                documentation, administer JIRA and Confluence. Able to bridge the communication gaps
+                                between stakeholders and developers.&nbsp;<br style=""><br style="">
+                                Interested in joining a team where I can advance my frontend programming skills and use my project management
+                                experience. Full-time remote, or on-site up to 50% anywhere in the EU or UK. Consider
+                                relocation.</div>
+                        </div>
+                    </div>
+                    <div class="main__section" style="">
+                        <div class="section__title" style="letter-spacing:3px;">Employment History</div>
+                        <div class="main__content" style="">
+                            <div class="main__content-item" style="break-inside: avoid;">
+                                <div class="main__content-title is-2column">
+                                    <div class="main__content-title-right">Valencia</div>Freelance Developer / Project
+                                    Manager
+                                </div>
+                                <div class="main__content-subtitle">Jan 2014 – Present</div>
+                                <div class="main__content-caption">
+                                    <ul>
+                                        <li>Online education course for executives (NDA)<ul>
+                                                <li>Angular 1.x, React.js/Gatsby.&nbsp;</li>
+                                                <li>Team of 6 developers.</li>
+                                            </ul>
+                                        </li>
+                                        <li>Web presence for a crypto/fintech startup (undisclosed)<ul>
+                                                <li>jQuery, Node.js</li>
+                                            </ul>
+                                        </li>
+                                        <li>Peex.live - maintenance and upgrades<ul>
+                                                <li>jQuery</li>
+                                                <li>Team of 2 developers</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="main__section" style="">
+                        <div class="section__title" style="letter-spacing:3px;">Education</div>
+                        <div class="main__content" style="">
+                            <div class="main__content-item" style="break-inside: avoid;">
+                                <div class="main__content-title is-2column">
+                                    <div class="main__content-title-right">Mykolaiv, Ukraine</div>Mykolaiv Research
+                                    Institute, 2-year course on Computer Science
+                                </div>
+                                <div class="main__content-subtitle"></div>
+                                <div class="main__content-caption"></div>
+                            </div>
+                            <div class="main__content-item" style="break-inside: avoid;">
+                                <div class="main__content-title is-2column">
+                                    <div class="main__content-title-right">Tuscaloosa</div>University of Alabama,
+                                    Bachelor of Science
+                                </div>
+                                <div class="main__content-subtitle">1998</div>
+                                <div class="main__content-caption"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="main__section" style="">
+                        <div class="section__title" style="letter-spacing:3px;">Courses</div>
+                        <div class="main__content" style="">
+                            <div class="main__content-item" style="break-inside: avoid;">
+                                <div class="main__content-title">Project Management, PM Expert</div>
+                                <div class="main__content-subtitle"></div>
+                                <div class="main__content-caption"></div>
+                            </div>
+                            <div class="main__content-item" style="break-inside: avoid;">
+                                <div class="main__content-title">IT Infrastructure Library Foundations, i-Teco</div>
+                                <div class="main__content-subtitle"></div>
+                                <div class="main__content-caption"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="main__section" style="">
+                        <div class="section__title" style="letter-spacing:3px;">References</div>
+                        <div class="main__content" style="">
+                            <div class="main__text" style="">References available upon request</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
